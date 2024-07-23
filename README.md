@@ -1,4 +1,8 @@
-## Hi there 👋
+## About me
+
+自称工場長
+
+情報系の知識が何もないので適当です．
 
 <!--
 **Factory-KJC/Factory-KJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
