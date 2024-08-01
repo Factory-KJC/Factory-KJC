@@ -2,7 +2,7 @@
 
 自称工場長
 
-情報系の知識が何もないので適当です．
+情報系の知識があまりないので結構適当です．
 
 <!--
 **Factory-KJC/Factory-KJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
